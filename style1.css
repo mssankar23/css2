@@ -1,0 +1,99 @@
+*{
+    margin: 0;padding: 0;
+}
+#main{
+    border-image-repeat: repeat;
+    margin-top:1%;
+    height: 50%;
+    width: 90%;
+    padding-left:1%;
+    padding-right: 1%;
+    
+    
+}
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-right: 0px;
+    background-color: azure;
+ 
+    }
+    
+    nav ul{
+       display:flex;
+       justify-content:space-between;
+       align-items: center;
+       width: 50%;
+       list-style-type: none;
+       
+       
+       
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .logo{
+    
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        }
+ 
+
+ .main1{
+    display: flex;
+    gap: 35px;
+    padding: 5px;   
+    height: 80%;
+    width: 100%;  
+    padding-top: -3%;   
+     }
+.main1,.one{
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+  font-size: larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-style: oblique;
+    color:blue;
+    margin-top: 5%;
+    gap: 10%;
+ }
+ 
+    #two,p{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+        font-style: oblique;
+        color:rgb(8, 6, 121);
+        padding-top: 40px;
+        
+         }
+.main2{
+       display: flex;
+        gap: 10px;
+        padding: 10px;  
+              
+         }
+         .main2,.two{
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+              font-size: larger;
+              font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+                font-style: oblique;
+                color:blue;
+                margin-top: 9%;
+             }
+.main3{
+            display: flex;
+            gap: 170px;
+            padding: 10px;        
+             }
+             .main3,.three{
+                text-align: center;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+                  font-size: larger;
+                  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+                    font-style: oblique;
+                    color:blue;
+                    margin-top: -1%;
+                 }
+                        
+    
